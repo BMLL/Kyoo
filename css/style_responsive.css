@@ -1,0 +1,10 @@
+@media (max-width: 1200px){
+    .aboutInfo p{
+        width: 80%;
+        color: red;
+        text-indent: 2em;
+        font-size: 18px;
+        letter-spacing: .2rem;
+        line-height: 28px;
+    }
+}
